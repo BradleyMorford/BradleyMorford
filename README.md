@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing, Robotics, Iot, Azure, Machine Learning
 - 🌱 I’m currently learning Git and getting Azure certifications
 - 💞️ I’m looking to collaborate on: modern continuous programming and integration; SCUBA Diving and Sailing; Jazz.
-- 📫 How to reach me brad.git@morford.net
+- 📫 How to reach me brad.info@morford.net
 
 <!---
 BradleyMorford/BradleyMorford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
