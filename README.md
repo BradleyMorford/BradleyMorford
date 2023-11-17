@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Bradley Morford. I am currently not connected to Facebook or LinkedIn, there is another Bradley Morford that is, however, it is not me. I went to Chico State University and Stanislaus State University.  I graduated with a BS Computer Science in 1983. 
+- 👋 Hi, I’m Bradley Morford.
 - 👀 I’m interested in Cloud Computing, Robotics, Iot, Azure, Machine Learning
-- 🌱 I’m currently learning Git and getting Azure certifications
-- 💞️ I’m looking to collaborate on: modern continuous programming and integration; SCUBA Diving and Sailing; Jazz.
-- 📫 How to reach me brad.info@morford.net
 
 <!---
 BradleyMorford/BradleyMorford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
