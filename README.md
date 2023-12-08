@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bradley Morford.
-- 👀 I’m interested in Cloud Computing, Robotics, Iot, Azure, Machine Learning
+- 👀 I’m interested in Cloud Computing, Robotics, Iot, Azure, Data Visualization, Machine Learning
 
 <!---
 BradleyMorford/BradleyMorford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
